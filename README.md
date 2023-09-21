@@ -7,9 +7,9 @@
 ## Conventions
 
 1. Branch: `{english-name}`
-2. Directory: `/{chapter#}/{english-name}/src`
-   - e.g. `/chapter01/{english-name}/src`
-3. Package: `oop.{chapter#}`
+2. Directory: `/src`
+3. Package: `oop.{english-name}.{chapter##}`
+   - e.g. `oop.yourname.chapter01`
 4. Descriptions: Pull Requests
 5. Questions: Issues
 
