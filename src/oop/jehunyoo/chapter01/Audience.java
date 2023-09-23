@@ -21,7 +21,7 @@ public class Audience {
         bag.add(belongings);
     }
 
-    public boolean hasInvitation(Movie movie) {
+    public boolean hasInvitation(Movie movie의) {
         return false;
     }
 }
